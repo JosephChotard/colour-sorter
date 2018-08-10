@@ -1,0 +1,1 @@
+This is a simple application that sorts images by their dominant colour
